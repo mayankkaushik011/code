@@ -49,7 +49,6 @@ button:hover {
   background-color: #45a049;
 }
 
-/* Hide default routing control */
 .leaflet-routing-container {
   display: none;
 }
